@@ -3,7 +3,7 @@ This is a repo created for files and software related to the modification of an 
 
 Assembly instructions can be found here
 <p><a class="inline_disabled" href="https://instructions.online/?id=2779-idex" target="_blank" rel="noopener noreferrer">Assembly Instructions</a></p>  
-Firmare modification by S.Downer for Marlin Firmware
+Firmware modification by S.Downer for Marlin Firmware
 Klipper Mirror and Copy modes are not avaliable at this time
 RipRap configuration is untested. 
 
