@@ -18,9 +18,9 @@ Printer Modifications Require at least 6 independent Drivers
     Mirror Mode = 175 x 370
     
  Printing:
-    All files shoud print wout out supports with sacrafichial layers
+    All files shoud print w/out out supports with sacrafichial layers
     Extra perimiters are recomended. 
-    Parts are designed and printed in PETG but ABS sould work as well. 
+    Parts are designed and printed in PETG but ABS should work as well. 
     
  Retained Parts: 
     Many of the stock ender 5+ Parts are reused
@@ -28,8 +28,8 @@ Printer Modifications Require at least 6 independent Drivers
     Stock Y axis Belts
     Stock V slot wheel spacers
     
-Eva 2. Toold head
-    Please see the eva tool heat system for instructions. 
+Eva 2. Tool head
+    Please see the eva tool head system for instructions. 
     Most of the parts are customized
         Idex Back Plate
         Fand Duckt
